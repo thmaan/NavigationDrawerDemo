@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="fechar">Close</string>
+    <string name="close_drawer">close</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="androidpro">AndroidPro</string>
+
+</resources>
